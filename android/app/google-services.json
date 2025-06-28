@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "847579515677",
+    "firebase_url": "https://planner-app-d5733-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "planner-app-d5733",
+    "storage_bucket": "planner-app-d5733.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847579515677:android:fad9f32fb09159b50f6ff4",
+        "android_client_info": {
+          "package_name": "com.darty.uplan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847579515677-17cv4mimahqtm7uh4bp0p8afh8ej5sdi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darty.uplan",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "847579515677-mgub8t5c5lhtv9omo0vbqlpl1psn18g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtdNhjCWV5_K4o3O2O09S2WhOXzcLF0ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847579515677-mgub8t5c5lhtv9omo0vbqlpl1psn18g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
